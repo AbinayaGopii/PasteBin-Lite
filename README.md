@@ -90,7 +90,8 @@ npm install
 2. Configure environment variables:
 ```env
 DATABASE_URL="postgresql://user:password@localhost:5432/dbname"
-NEXT_PUBLIC_APP_URL=""
+## Live Demo
+NEXT_PUBLIC_APP_URL="https://paste-bin-lite-ruddy.vercel.app"
 ```
 
 3. Run database migrations:
